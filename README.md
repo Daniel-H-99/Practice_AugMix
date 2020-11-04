@@ -1,5 +1,5 @@
 # AugMix
-A code for the PyTorch implementation of AugMix (ICLR2020) by Minyeong Hwang
+A code for the PyTorch implementation of AugMix (ICLR2020)
 ## Files
 + main.py   
 main python code for entire experiment
