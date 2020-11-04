@@ -9,7 +9,7 @@ notebook version of main.py
 set of augmentations for images
 + WideResnet   
 baseline model 'WideResNet_pytorch'
-+ data.sh   
++ download_cifar-c.sh   
 shell script for downloading datasets.
 ## Cautions
 Make dirs for saving result files
