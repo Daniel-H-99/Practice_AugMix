@@ -1,2 +1,2 @@
 # AugMix-template
-A template code for the PyTorch implementation of AugMix (ICLR2020)
+A code for the PyTorch implementation of AugMix (ICLR2020) by Minyeong HWang
