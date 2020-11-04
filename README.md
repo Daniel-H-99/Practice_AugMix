@@ -8,7 +8,7 @@ notebook version of main.py
 + augmentations.py   
 set of augmentations for images
 + WideResnet   
-baseline model 'WideResnet'
+baseline model 'WideResNet_pytorch'
 + data.sh   
 shell script for downloading datasets.
 ## Cautions
