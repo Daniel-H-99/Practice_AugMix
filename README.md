@@ -11,4 +11,5 @@ set of augmentations for images
 baseline model 'WideResnet'
 + data.sh   
 shell script for downloading datasets.
-
+## Cautions
+Make dirs for saving result files
